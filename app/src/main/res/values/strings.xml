@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MajorApp</string>
+    <string name="the_result">The result</string>
+    <string name="main_page">Main page</string>
+</resources>
